@@ -1,0 +1,1597 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:Dictionary xmlns:ns1="http://www.microsoft.com/ime/dctx"><ns1:DictionaryHeader>
+    <ns1:DictionaryGUID>{463db381-18d1-49af-8854-5a6752bd0fbd}</ns1:DictionaryGUID>
+    <ns1:DictionaryLanguage>zh-cn</ns1:DictionaryLanguage>
+    <ns1:FormatVersion>0</ns1:FormatVersion>
+    <ns1:DictionaryVersion>1</ns1:DictionaryVersion>
+    <ns1:DictionaryInfo Language="zh-cn">
+      <ns1:ShortName>深蓝词库</ns1:ShortName>
+      <ns1:LongName>深蓝词库转换而成</ns1:LongName>
+      <ns1:Description>Dictionary for IME</ns1:Description>
+      <ns1:Copyright>深蓝词库转换</ns1:Copyright>
+      <ns1:CommentHeader1>CommentTitle1</ns1:CommentHeader1>
+      <ns1:CommentHeader2>CommentTitle1</ns1:CommentHeader2>
+      <ns1:CommentHeader3>CommentTitle1</ns1:CommentHeader3>
+    </ns1:DictionaryInfo>
+    <ns1:DictionaryInfo Language="en-us">
+      <ns1:ShortName>Shenlan</ns1:ShortName>
+      <ns1:LongName>Shenlan</ns1:LongName>
+      <ns1:Description>Shenlan</ns1:Description>
+      <ns1:Copyright>Shenlan</ns1:Copyright>
+      <ns1:CommentHeader1>CommentTitle1</ns1:CommentHeader1>
+      <ns1:CommentHeader2>CommentTitle1</ns1:CommentHeader2>
+      <ns1:CommentHeader3>CommentTitle1</ns1:CommentHeader3>
+    </ns1:DictionaryInfo>
+    <ns1:ContentCategory>Genral</ns1:ContentCategory>
+    <ns1:DictionaryType>Conversion</ns1:DictionaryType>
+    <ns1:SourceURL>
+    </ns1:SourceURL>
+    <ns1:CommentInsertion>true</ns1:CommentInsertion>
+    <ns1:IconID>25</ns1:IconID>
+  </ns1:DictionaryHeader>
+<ns1:DictionaryEntry>
+<ns1:InputString>an4 shou4</ns1:InputString>
+<ns1:OutputString>暗兽</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>an4 shou4 wang2</ns1:InputString>
+<ns1:OutputString>暗兽王</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>an4 shou4 chao2</ns1:InputString>
+<ns1:OutputString>暗兽潮</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>pu3 tong1 an4 shou4</ns1:InputString>
+<ns1:OutputString>普通暗兽</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>an4 shou4 ling3 zhu3</ns1:InputString>
+<ns1:OutputString>暗兽领主</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ni3 tai4 an4 shou4</ns1:InputString>
+<ns1:OutputString>拟态暗兽</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>chun2 hua4 an4 shou4</ns1:InputString>
+<ns1:OutputString>纯化暗兽</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>kuang2 hua4 an4 shou4</ns1:InputString>
+<ns1:OutputString>狂化暗兽</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>kuang4 hua4 an4 shou4</ns1:InputString>
+<ns1:OutputString>矿化暗兽</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>tu4 xing2 an4 shou4</ns1:InputString>
+<ns1:OutputString>兔型暗兽</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>lu4 xing2 an4 shou4</ns1:InputString>
+<ns1:OutputString>鹿型暗兽</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>kuang4 shi2 hua4 an4 shou4</ns1:InputString>
+<ns1:OutputString>矿石化暗兽</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ren2 xing2 an4 shou4 ling3 zhu3</ns1:InputString>
+<ns1:OutputString>人形暗兽领主</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>bei4 qin1 shi2 de5 an4 shou4</ns1:InputString>
+<ns1:OutputString>被侵蚀的暗兽</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>te4 yi1 ji2 an4 shou4 huo2 dong4 jing3 bao4</ns1:InputString>
+<ns1:OutputString>特一级暗兽活动警报</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yuan2 wai4 zhi1 wu4</ns1:InputString>
+<ns1:OutputString>园外之物</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>tian1 e2</ns1:InputString>
+<ns1:OutputString>天蛾</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>chen2 lin2</ns1:InputString>
+<ns1:OutputString>尘鳞</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shi4 xing1 xie2 long2</ns1:InputString>
+<ns1:OutputString>逝星邪龙</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>tian1 huo3</ns1:InputString>
+<ns1:OutputString>天火</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shen1 lin2 xun2 you5 zhe3</ns1:InputString>
+<ns1:OutputString>深林巡游者</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>deng1 ling2</ns1:InputString>
+<ns1:OutputString>灯灵</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>hong2 cha2 pai4</ns1:InputString>
+<ns1:OutputString>红茶派</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>gu4 qiu2</ns1:InputString>
+<ns1:OutputString>锢囚</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>chen2 yu4</ns1:InputString>
+<ns1:OutputString>沉郁</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guan4 guan4 tu4</ns1:InputString>
+<ns1:OutputString>罐罐兔</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>fu2 jiao3</ns1:InputString>
+<ns1:OutputString>浮角</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yuan1 yan3</ns1:InputString>
+<ns1:OutputString>渊魇</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>sui4 ta3 zhong4 chui2</ns1:InputString>
+<ns1:OutputString>碎塔重锤</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xuan4 ling2</ns1:InputString>
+<ns1:OutputString>眩灵</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>you1 hai2</ns1:InputString>
+<ns1:OutputString>幽骸</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhong4 ya2</ns1:InputString>
+<ns1:OutputString>重牙</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>kong1 jia2</ns1:InputString>
+<ns1:OutputString>空铗</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>jing4 yi4</ns1:InputString>
+<ns1:OutputString>静翼</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 xi1</ns1:InputString>
+<ns1:OutputString>光螅</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>jing1 ying2 sheng1 wu4</ns1:InputString>
+<ns1:OutputString>晶莹生物</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>you5 ye4</ns1:InputString>
+<ns1:OutputString>游夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ge2 shi4</ns1:InputString>
+<ns1:OutputString>隔世</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>feng1 san4 tai2</ns1:InputString>
+<ns1:OutputString>风散苔</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>chi4 deng1</ns1:InputString>
+<ns1:OutputString>炽灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>chi4 deng1 jian4 ye4</ns1:InputString>
+<ns1:OutputString>炽灯见夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>huang2 jin1 de5 shuang1 qing2</ns1:InputString>
+<ns1:OutputString>黄金的双擎</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>jian4 ye4</ns1:InputString>
+<ns1:OutputString>见夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>meng4 deng1</ns1:InputString>
+<ns1:OutputString>梦灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>meng4 deng1 ci3 ye4</ns1:InputString>
+<ns1:OutputString>梦灯此夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ci3 ye4</ns1:InputString>
+<ns1:OutputString>此夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>liu2 ming2</ns1:InputString>
+<ns1:OutputString>流明</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>meng4 deng1 bi3 ye4</ns1:InputString>
+<ns1:OutputString>梦灯彼夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>bi3 ye4</ns1:InputString>
+<ns1:OutputString>彼夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qian2 you5 yuan2 zhe3 dui4 zhang3</ns1:InputString>
+<ns1:OutputString>前游园者队长</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>you5 yuan2 zhe3 ce4 shi4 kao3 guan1</ns1:InputString>
+<ns1:OutputString>游园者测试考官</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yong3 yuan3 di2 jie3 jie3</ns1:InputString>
+<ns1:OutputString>永远的姐姐</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yong3 ling2 hua1</ns1:InputString>
+<ns1:OutputString>永龄花</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>cai3 deng1</ns1:InputString>
+<ns1:OutputString>彩灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>cai3 deng1 xuan4 ye4</ns1:InputString>
+<ns1:OutputString>彩灯绚夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xuan4 ye4</ns1:InputString>
+<ns1:OutputString>绚夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>jie2 cai3</ns1:InputString>
+<ns1:OutputString>结彩</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wu2 ming2 hua1</ns1:InputString>
+<ns1:OutputString>无名花</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xiao3 deng1</ns1:InputString>
+<ns1:OutputString>小灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xiao3 deng1 liu2 ye4</ns1:InputString>
+<ns1:OutputString>小灯流夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>liu2 ye4</ns1:InputString>
+<ns1:OutputString>流夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wei1 zhan3</ns1:InputString>
+<ns1:OutputString>微盏</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>lan2 hua1 xiao3 ju2</ns1:InputString>
+<ns1:OutputString>蓝花小菊</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhang3 deng1</ns1:InputString>
+<ns1:OutputString>长灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhang3 deng1 man4 ye4</ns1:InputString>
+<ns1:OutputString>长灯漫夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 wu1 ran3 ji4 shu4 guan1</ns1:InputString>
+<ns1:OutputString>光污染技术官</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>man4 ye4</ns1:InputString>
+<ns1:OutputString>漫夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>du2 guang1</ns1:InputString>
+<ns1:OutputString>渎光</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>you1 lan2</ns1:InputString>
+<ns1:OutputString>幽兰</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhang3 deng1 yao4 ye4</ns1:InputString>
+<ns1:OutputString>长灯耀夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yao4 ye4</ns1:InputString>
+<ns1:OutputString>耀夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qian2 guang1</ns1:InputString>
+<ns1:OutputString>虔光</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>liu4 jiao3 bing1 lian2</ns1:InputString>
+<ns1:OutputString>六角冰莲</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>huan4 deng1</ns1:InputString>
+<ns1:OutputString>幻灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>huan4 deng1 zui4 ye4</ns1:InputString>
+<ns1:OutputString>幻灯醉夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>huan4 guang1 de5 ren2 ou3</ns1:InputString>
+<ns1:OutputString>幻光的人偶</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zui4 ye4</ns1:InputString>
+<ns1:OutputString>醉夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ru2 zhou4</ns1:InputString>
+<ns1:OutputString>如昼</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yong3 xu4 cao3</ns1:InputString>
+<ns1:OutputString>咏絮草</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>jing1 deng1</ns1:InputString>
+<ns1:OutputString>晶灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>jing1 deng1 mi2 ye4</ns1:InputString>
+<ns1:OutputString>晶灯迷夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>mi2 ye4</ns1:InputString>
+<ns1:OutputString>迷夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>liao2 luan4</ns1:InputString>
+<ns1:OutputString>缭乱</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wu4 hai3 fu2 rong2</ns1:InputString>
+<ns1:OutputString>雾海芙蓉</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>mei3 deng1</ns1:InputString>
+<ns1:OutputString>美灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>mei3 deng1 feng2 ye4</ns1:InputString>
+<ns1:OutputString>美灯逢夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>feng2 ye4</ns1:InputString>
+<ns1:OutputString>逢夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>hua4 shan4</ns1:InputString>
+<ns1:OutputString>画扇</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>da4 hua1 hong2 qiang2 wei1</ns1:InputString>
+<ns1:OutputString>大花红蔷薇</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ni2 deng1</ns1:InputString>
+<ns1:OutputString>霓灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ni2 deng1 ran3 ye4</ns1:InputString>
+<ns1:OutputString>霓灯染夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ran3 ye4</ns1:InputString>
+<ns1:OutputString>染夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>huan4 zhi1 chang4 pian4 qi2 shi1</ns1:InputString>
+<ns1:OutputString>幻之唱片骑师</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xin1 shi2 dai4 yin1 yue4 ren2</ns1:InputString>
+<ns1:OutputString>新时代音乐人</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ni2 guang1 de5 zhong4 qiang1</ns1:InputString>
+<ns1:OutputString>霓光的重枪</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yi4 cai3</ns1:InputString>
+<ns1:OutputString>溢彩</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>jie2 yan1</ns1:InputString>
+<ns1:OutputString>结胭</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>kong1 deng1</ns1:InputString>
+<ns1:OutputString>空灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>kong1 deng1 shan3 ye4</ns1:InputString>
+<ns1:OutputString>空灯闪夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shan3 ye4</ns1:InputString>
+<ns1:OutputString>闪夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yu3 jiu3 ta3 de5 you1 deng3 sheng1</ns1:InputString>
+<ns1:OutputString>雨久塔的优等生</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xian1 hong2 de5 can2 ji4</ns1:InputString>
+<ns1:OutputString>鲜红的残迹</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>hang2 kong1</ns1:InputString>
+<ns1:OutputString>行空</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>tie3 ji3 hai3 tang2</ns1:InputString>
+<ns1:OutputString>铁戟海棠</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xin1 deng1</ns1:InputString>
+<ns1:OutputString>心灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xin1 deng1 shou3 ye4</ns1:InputString>
+<ns1:OutputString>心灯守夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shou3 ye4</ns1:InputString>
+<ns1:OutputString>守夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>beng1 xin1</ns1:InputString>
+<ns1:OutputString>崩心</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>mu4 ning2 hua1</ns1:InputString>
+<ns1:OutputString>目凝花</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>jing4 deng1</ns1:InputString>
+<ns1:OutputString>静灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>jing4 deng1 wang4 ye4</ns1:InputString>
+<ns1:OutputString>静灯望夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wang4 ye4</ns1:InputString>
+<ns1:OutputString>望夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ming2 mie4</ns1:InputString>
+<ns1:OutputString>明灭</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shui3 xiang1</ns1:InputString>
+<ns1:OutputString>水香</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>hua2 deng1</ns1:InputString>
+<ns1:OutputString>华灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>hua2 deng1 ying4 ye4</ns1:InputString>
+<ns1:OutputString>华灯映夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ying4 ye4</ns1:InputString>
+<ns1:OutputString>映夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>chu1 shang4</ns1:InputString>
+<ns1:OutputString>初上</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>jin1 ye4 hong2</ns1:InputString>
+<ns1:OutputString>今夜红</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ji2 deng1</ns1:InputString>
+<ns1:OutputString>疾灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ji2 deng1 zhan3 ye4</ns1:InputString>
+<ns1:OutputString>疾灯斩夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhan3 ye4</ns1:InputString>
+<ns1:OutputString>斩夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xing1 wen3</ns1:InputString>
+<ns1:OutputString>星吻</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xing1 deng1</ns1:InputString>
+<ns1:OutputString>星灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xing1 deng1 yuan4 ye4</ns1:InputString>
+<ns1:OutputString>星灯愿夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yuan4 ye4</ns1:InputString>
+<ns1:OutputString>愿夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xing1 wen3 de5 zhu3 chang4</ns1:InputString>
+<ns1:OutputString>星吻的主唱</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qian2 xing1 wen3 de5 zhu3 chang4</ns1:InputString>
+<ns1:OutputString>前星吻的主唱</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xing1 yun3</ns1:InputString>
+<ns1:OutputString>星陨</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ming2 lv5 hua1</ns1:InputString>
+<ns1:OutputString>明缕花</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xing1 deng1 qi2 ye4</ns1:InputString>
+<ns1:OutputString>星灯祈夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qi2 ye4</ns1:InputString>
+<ns1:OutputString>祈夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xing1 liu2</ns1:InputString>
+<ns1:OutputString>星流</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xing1 wen3 de5 bei4 si1 shou3</ns1:InputString>
+<ns1:OutputString>星吻的贝斯手</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qian2 xing1 wen3 de5 bei4 si1 shou3</ns1:InputString>
+<ns1:OutputString>前星吻的贝斯手</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xing1 deng1 zhui4 ye4</ns1:InputString>
+<ns1:OutputString>星灯缀夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhui4 ye4</ns1:InputString>
+<ns1:OutputString>缀夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xing1 wen3 de5 jian4 pan2 shou3</ns1:InputString>
+<ns1:OutputString>星吻的键盘手</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qian2 xing1 wen3 de5 jian4 pan2 shou3</ns1:InputString>
+<ns1:OutputString>前星吻的键盘手</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>gong1 yi2</ns1:InputString>
+<ns1:OutputString>宫移</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>sui4 deng1</ns1:InputString>
+<ns1:OutputString>岁灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>sui4 deng1 xuan2 ye4</ns1:InputString>
+<ns1:OutputString>岁灯悬夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xuan2 ye4</ns1:InputString>
+<ns1:OutputString>悬夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xing1 wen3 de5 gu3 shou3</ns1:InputString>
+<ns1:OutputString>星吻的鼓手</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qian2 xing1 wen3 de5 gu3 shou3</ns1:InputString>
+<ns1:OutputString>前星吻的鼓手</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhong4 yin1</ns1:InputString>
+<ns1:OutputString>重音</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ying2 deng1</ns1:InputString>
+<ns1:OutputString>萤灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ying2 deng1 lian4 ye4</ns1:InputString>
+<ns1:OutputString>萤灯恋夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>lian4 ye4</ns1:InputString>
+<ns1:OutputString>恋夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xing1 wen3 de5 ke4 zuo4 xiao3 ti2 qin2 shou3</ns1:InputString>
+<ns1:OutputString>星吻的客座小提琴手</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ke4 zuo4 xiao3 ti2 qin2 shou3</ns1:InputString>
+<ns1:OutputString>客座小提琴手</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>jue2 xian2</ns1:InputString>
+<ns1:OutputString>绝弦</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>cang1 wei1</ns1:InputString>
+<ns1:OutputString>苍薇</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>hua1 deng1</ns1:InputString>
+<ns1:OutputString>花灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>hua1 deng1 yi1 sheng1</ns1:InputString>
+<ns1:OutputString>花灯医生</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>hua1 deng1 zhan4 ye4</ns1:InputString>
+<ns1:OutputString>花灯绽夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>lin3 ran2 de5 hua1 huo3</ns1:InputString>
+<ns1:OutputString>凛然的花火</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhan4 ye4</ns1:InputString>
+<ns1:OutputString>绽夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>rong2 hua2</ns1:InputString>
+<ns1:OutputString>荣华</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>hua1 huo3</ns1:InputString>
+<ns1:OutputString>花火</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xi4 yin2 hua1</ns1:InputString>
+<ns1:OutputString>细银花</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>hui3 mie4 zhi1 yan4</ns1:InputString>
+<ns1:OutputString>毁灭之焰</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wan3 deng1</ns1:InputString>
+<ns1:OutputString>晚灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wan3 deng1 zhao4 ye4</ns1:InputString>
+<ns1:OutputString>晚灯照夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ci2 ai4 de5 ye4 qu3</ns1:InputString>
+<ns1:OutputString>慈爱的夜曲</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhao4 ye4</ns1:InputString>
+<ns1:OutputString>照夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wan3 ge1</ns1:InputString>
+<ns1:OutputString>晚歌</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wang4 you1 cao3</ns1:InputString>
+<ns1:OutputString>忘忧草</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>chu1 deng1</ns1:InputString>
+<ns1:OutputString>初灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>chu1 deng1 xi1 ye4</ns1:InputString>
+<ns1:OutputString>初灯熙夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xin1 ran2 de5 chu1 yan4</ns1:InputString>
+<ns1:OutputString>新燃的初焰</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xi1 ye4</ns1:InputString>
+<ns1:OutputString>熙夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wu2 ming2</ns1:InputString>
+<ns1:OutputString>无名</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>kuan3 xiao1 mei2</ns1:InputString>
+<ns1:OutputString>款宵梅</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qing2 deng1</ns1:InputString>
+<ns1:OutputString>晴灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qing2 deng1 wu2 ye4</ns1:InputString>
+<ns1:OutputString>晴灯无夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wu2 ye4</ns1:InputString>
+<ns1:OutputString>无夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zui4 wei3 da4 de5 xian2 zhe3</ns1:InputString>
+<ns1:OutputString>最伟大的贤者</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhu3 ta3 de5 tai4 yang2</ns1:InputString>
+<ns1:OutputString>主塔的太阳</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shen2 zhi1 zi3</ns1:InputString>
+<ns1:OutputString>神之子</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 zhi1 ren2</ns1:InputString>
+<ns1:OutputString>光之人</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wan4 jie2 de5 hong2 cai3</ns1:InputString>
+<ns1:OutputString>万洁的虹彩</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yong3 mian2 de5 can2 hui1</ns1:InputString>
+<ns1:OutputString>永眠的残晖</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ri4 ye4 de5 shou3 hu4 zhe3</ns1:InputString>
+<ns1:OutputString>日夜的守护者</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>cang1 qiong2</ns1:InputString>
+<ns1:OutputString>苍穹</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wang2 deng1</ns1:InputString>
+<ns1:OutputString>亡灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wang2 deng1 you4 ye4</ns1:InputString>
+<ns1:OutputString>亡灯诱夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>you4 ye4</ns1:InputString>
+<ns1:OutputString>诱夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>gui1 e2</ns1:InputString>
+<ns1:OutputString>归蛾</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>fan3 hun2 cao3</ns1:InputString>
+<ns1:OutputString>返魂草</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yue4 deng1</ns1:InputString>
+<ns1:OutputString>月灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yue4 deng1 hui1 ye4</ns1:InputString>
+<ns1:OutputString>月灯辉夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>chen2 jing4 de5 xi4 xue3</ns1:InputString>
+<ns1:OutputString>沉静的细雪</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>meng4 jing4 de5 zhong1 dian3</ns1:InputString>
+<ns1:OutputString>梦境的终点</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shi1 xin1 de5 leng3 yue4</ns1:InputString>
+<ns1:OutputString>失心的冷月</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>hui1 ye4</ns1:InputString>
+<ns1:OutputString>辉夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang3 han2</ns1:InputString>
+<ns1:OutputString>广寒</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>bai2 yu4</ns1:InputString>
+<ns1:OutputString>白玉</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yuan3 ji4 hua1</ns1:InputString>
+<ns1:OutputString>远迹花</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shu1 qing2 hua1</ns1:InputString>
+<ns1:OutputString>疏情花</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ying3 deng1</ns1:InputString>
+<ns1:OutputString>影灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ying3 deng1 shi2 ye4</ns1:InputString>
+<ns1:OutputString>影灯蚀夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yi2 shi4 de5 gu1 ying3</ns1:InputString>
+<ns1:OutputString>遗世的孤影</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wu2 guang1 de5 tai4 yang2</ns1:InputString>
+<ns1:OutputString>无光的太阳</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>hei1 an4 ling2 hun2</ns1:InputString>
+<ns1:OutputString>黑暗灵魂</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>meng4 zhi1 ke3 qiu2 zhe3</ns1:InputString>
+<ns1:OutputString>梦之渴求者</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shi2 ye4</ns1:InputString>
+<ns1:OutputString>蚀夜</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>liu2 ying3</ns1:InputString>
+<ns1:OutputString>留影</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ming2 tu2 hua1</ns1:InputString>
+<ns1:OutputString>溟途花</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>meng4 deng1 hua1</ns1:InputString>
+<ns1:OutputString>梦灯花</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 shi3</ns1:InputString>
+<ns1:OutputString>光使</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 huan4 shi4</ns1:InputString>
+<ns1:OutputString>光幻视</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 chu3</ns1:InputString>
+<ns1:OutputString>光杵</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zuo4 zhan4 yong4 guang1 neng2 ji2 shu4 qi4</ns1:InputString>
+<ns1:OutputString>作战用光能集束器</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 shi3 li4 fa3</ns1:InputString>
+<ns1:OutputString>光使历法</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>gu3 guang1 shi3</ns1:InputString>
+<ns1:OutputString>古光使</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>gu3 guang1 shi3 wen2 ming2</ns1:InputString>
+<ns1:OutputString>古光使文明</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xin1 sheng1 guang1 shi3</ns1:InputString>
+<ns1:OutputString>新生光使</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ren2 gong1 guang1 shi3</ns1:InputString>
+<ns1:OutputString>人工光使</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ming4 yun4 zhi1 zi3</ns1:InputString>
+<ns1:OutputString>命运之子</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xian4 dai4 guang1 shi3 she4 hui4</ns1:InputString>
+<ns1:OutputString>现代光使社会</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>si4 xian2 zhe3 hui4 yi4</ns1:InputString>
+<ns1:OutputString>四贤者会议</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>you5 yuan2 zhe3</ns1:InputString>
+<ns1:OutputString>游园者</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>you5 yuan2 zhe3 ce4 shi4</ns1:InputString>
+<ns1:OutputString>游园者测试</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>you5 yuan2 zhe3 dang4 an4</ns1:InputString>
+<ns1:OutputString>游园者档案</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 wu1 nv3</ns1:InputString>
+<ns1:OutputString>光巫女</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xian2 zhe3</ns1:InputString>
+<ns1:OutputString>贤者</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 wu1 ran3</ns1:InputString>
+<ns1:OutputString>光污染</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 wu1 ran3 bu4 dui4</ns1:InputString>
+<ns1:OutputString>光污染部队</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 dao4 hui4</ns1:InputString>
+<ns1:OutputString>光道会</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhu4 fu2 zhi1 hua1</ns1:InputString>
+<ns1:OutputString>祝福之花</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 lu4</ns1:InputString>
+<ns1:OutputString>光路</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 neng2 han2 yang3</ns1:InputString>
+<ns1:OutputString>光能涵养</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ji2 jiu4 hui2 lu4</ns1:InputString>
+<ns1:OutputString>急救回路</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhan4 chang3 ji1 dong4</ns1:InputString>
+<ns1:OutputString>战场机动</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zi4 ran2 yu4 he2</ns1:InputString>
+<ns1:OutputString>自然愈合</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yuan2 su4 cui4 qu3</ns1:InputString>
+<ns1:OutputString>元素萃取</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zuo4 zhan4 ji4 qiao3</ns1:InputString>
+<ns1:OutputString>作战技巧</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>cui4 guang1</ns1:InputString>
+<ns1:OutputString>萃光</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>cui4 guang1 ji4</ns1:InputString>
+<ns1:OutputString>萃光技</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qiang2 hua4 qie1 huan4</ns1:InputString>
+<ns1:OutputString>强化切换</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhan4 dou4 liu2 pai4</ns1:InputString>
+<ns1:OutputString>战斗流派</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yuan2 su4 ke2 ceng2</ns1:InputString>
+<ns1:OutputString>元素壳层</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>sui4 ke2 zhui1 ji1</ns1:InputString>
+<ns1:OutputString>碎壳追击</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>sui4 ke2 shi1 heng2</ns1:InputString>
+<ns1:OutputString>碎壳失衡</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ju4 jiao1 da3 ji1</ns1:InputString>
+<ns1:OutputString>聚焦打击</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhong1 ji2 lian2 xie2</ns1:InputString>
+<ns1:OutputString>终极连携</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 zhi1 hua1</ns1:InputString>
+<ns1:OutputString>光之花</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shi4 xing1 shi2</ns1:InputString>
+<ns1:OutputString>逝星石</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shui4 meng4 bing4</ns1:InputString>
+<ns1:OutputString>睡梦病</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>gu3 guang1 shi3 ke1 ji4</ns1:InputString>
+<ns1:OutputString>古光使科技</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>tong2 tiao2</ns1:InputString>
+<ns1:OutputString>同调</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 lu4 wang3 luo4</ns1:InputString>
+<ns1:OutputString>光路网络</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>nao3 guang1 bo1 yi2</ns1:InputString>
+<ns1:OutputString>脑光波仪</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yi2 ji4 chuan2</ns1:InputString>
+<ns1:OutputString>遗迹船</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>gu3 guang1 shi3 shi2 ba1 hao4 yi2 ji4</ns1:InputString>
+<ns1:OutputString>古光使十八号遗迹</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shi2 ba1 hao4 yi2 ji4</ns1:InputString>
+<ns1:OutputString>十八号遗迹</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yi2 ji4 shi2 ba1 hao4</ns1:InputString>
+<ns1:OutputString>遗迹十八号</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ji2 shu4 zhuang1 zhi4</ns1:InputString>
+<ns1:OutputString>集束装置</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhao4 ming2 zhuang1 zhi4</ns1:InputString>
+<ns1:OutputString>照明装置</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wu2 ye4 yuan2</ns1:InputString>
+<ns1:OutputString>无夜原</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ci3 ye4 yuan2</ns1:InputString>
+<ns1:OutputString>此夜原</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>tian1 xing1 sen1 lin2</ns1:InputString>
+<ns1:OutputString>天星森林</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>kuang4 shan1</ns1:InputString>
+<ns1:OutputString>矿山</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yong3 wu2 dao3</ns1:InputString>
+<ns1:OutputString>永无岛</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>xiang1 lan2 he2</ns1:InputString>
+<ns1:OutputString>香兰河</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>deng1 ta3 pao4</ns1:InputString>
+<ns1:OutputString>灯塔炮</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>tian1 xing1 pao4</ns1:InputString>
+<ns1:OutputString>天星炮</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qing2 guang1 pao4</ns1:InputString>
+<ns1:OutputString>晴光炮</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yi1 lan2 pao4</ns1:InputString>
+<ns1:OutputString>依兰炮</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>gu3 guang1 shi3 yi2 ji4</ns1:InputString>
+<ns1:OutputString>古光使遗迹</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shi1 luo4 de5 gu3 guang1 shi3 yi2 ji4</ns1:InputString>
+<ns1:OutputString>失落的古光使遗迹</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>er4 wu3 wu3 hao4 yi2 ji4</ns1:InputString>
+<ns1:OutputString>二五五号遗迹</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ying4 ji2 neng2 yuan2 zhan4</ns1:InputString>
+<ns1:OutputString>应急能源站</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>deng1 ta3</ns1:InputString>
+<ns1:OutputString>灯塔</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>di4 xia4 deng1 ta3</ns1:InputString>
+<ns1:OutputString>地下灯塔</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhu3 ta3</ns1:InputString>
+<ns1:OutputString>主塔</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qing2 guang1 ta3</ns1:InputString>
+<ns1:OutputString>晴光塔</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qiang2 wei1 ta3</ns1:InputString>
+<ns1:OutputString>蔷薇塔</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yu4 zan1 ta3</ns1:InputString>
+<ns1:OutputString>玉簪塔</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yu4 zan1 ta3 fei4 xu1</ns1:InputString>
+<ns1:OutputString>玉簪塔废墟</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>tian1 xing1 ta3</ns1:InputString>
+<ns1:OutputString>天星塔</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>tian1 xing1 sen1 lin2</ns1:InputString>
+<ns1:OutputString>天星森林</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yi1 lan2 ta3</ns1:InputString>
+<ns1:OutputString>依兰塔</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>long2 yue4 ta3</ns1:InputString>
+<ns1:OutputString>胧月塔</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yu3 jiu3 ta3</ns1:InputString>
+<ns1:OutputString>雨久塔</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zi3 zhu1 ta3</ns1:InputString>
+<ns1:OutputString>紫珠塔</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>jie2 xiang1 ta3</ns1:InputString>
+<ns1:OutputString>结香塔</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>gu1 ying3 ta3</ns1:InputString>
+<ns1:OutputString>孤影塔</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wu2 ye4 gong1</ns1:InputString>
+<ns1:OutputString>无夜宫</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>feng2 ye4 ting2</ns1:InputString>
+<ns1:OutputString>逢夜亭</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>da4 shu1 ku4</ns1:InputString>
+<ns1:OutputString>大书库</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shi2 ye4 guan3</ns1:InputString>
+<ns1:OutputString>蚀夜馆</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shi2 ye4 guan3 shi2 yan4 shi4</ns1:InputString>
+<ns1:OutputString>蚀夜馆实验室</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>zhao4 ye4 ting1</ns1:InputString>
+<ns1:OutputString>照夜厅</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 chu3 gong1 fang2</ns1:InputString>
+<ns1:OutputString>光杵工房</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>jiu4 wen2 ming2 tu2 shu1 guan3</ns1:InputString>
+<ns1:OutputString>旧文明图书馆</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>di4 xia4 shui3 lu4 wang3</ns1:InputString>
+<ns1:OutputString>地下水路网</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>di4 xia4 shui3 lu4</ns1:InputString>
+<ns1:OutputString>地下水路</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>di4 xia4 shui3 lu4 xi4 tong3</ns1:InputString>
+<ns1:OutputString>地下水路系统</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>ji2 ye4 zhi1 zai1</ns1:InputString>
+<ns1:OutputString>极夜之灾</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>wu2 ye4 zhan4 zheng1</ns1:InputString>
+<ns1:OutputString>无夜战争</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qian1 yi2 ji4 hua2</ns1:InputString>
+<ns1:OutputString>迁移计划</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>tian1 xing1 ta3 fang2 yu4 zhan4</ns1:InputString>
+<ns1:OutputString>天星塔防御战</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>di4 er4 ci4 tian1 xing1 ta3 fang2 yu4 zhan4</ns1:InputString>
+<ns1:OutputString>第二次天星塔防御战</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>tai4 yang2 yue4 liang4 deng1</ns1:InputString>
+<ns1:OutputString>太阳月亮灯</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>shuo1 cao2 ye4 cao2 ye4 dao4</ns1:InputString>
+<ns1:OutputString>说曹夜曹夜到</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qing2 guang1</ns1:InputString>
+<ns1:OutputString>晴光</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>guang1 zhi1 song4 ge1</ns1:InputString>
+<ns1:OutputString>光之颂歌</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>jiao1 tu3</ns1:InputString>
+<ns1:OutputString>焦土</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>qiu2 ji4</ns1:InputString>
+<ns1:OutputString>球蓟</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>jin3 bei4 hua1</ns1:InputString>
+<ns1:OutputString>锦被花</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+<ns1:DictionaryEntry>
+<ns1:InputString>yi1 lan2 dou4</ns1:InputString>
+<ns1:OutputString>依兰豆</ns1:OutputString>
+<ns1:Exist>1</ns1:Exist>
+</ns1:DictionaryEntry>
+</ns1:Dictionary>
